@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Local data files if needed
+*.log
+*.tmp
+
+# Secrets and credentials
+*.key
+*.pem
+.env
+secrets.json
+config_secret.json
+
+# Azure / Databricks sensitive files
+*.token
+*.pat
+
+# OS files
+.DS_Store
+Thumbs.db
