@@ -1,0 +1,9 @@
+SupplierID,SupplierName,Country,LeadTimeDays,ReliabilityScore,IsActive
+SUP001,Adler Sportswear GmbH,Germany,7,94.5,True
+SUP002,Nordic Active AB,Sweden,10,88.0,True
+SUP003,Iberia Footwear SL,Spain,12,84.0,True
+SUP004,Milano Apparel SRL,Italy,9,91.0,True
+SUP005,Paris Lifestyle SAS,France,8,89.5,True
+SUP006,Benelux Accessories BV,Netherlands,6,96.0,True
+SUP007,Warsaw Performance Sp Zoo,Poland,14,81.5,True
+SUP008,Vienna Outdoor Handels GmbH,Austria,11,86.5,True

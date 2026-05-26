@@ -1,0 +1,102 @@
+ProductID,SKU,ProductName,Category,SubCategory,Brand,SupplierID,UnitCost,RetailPrice,Currency,IsActive
+P0001,SKU-00001,EuroSport Training Jersey,Jerseys,Training Jersey,EuroSport,SUP001,60.62,101.2,EUR,True
+P0002,SKU-00002,EuroSport Home Jersey,Jerseys,Home Jersey,EuroSport,SUP002,49.29,70.73,EUR,True
+P0003,SKU-00003,AdlerFit Home Jersey,Jerseys,Home Jersey,AdlerFit,SUP004,42.9,61.31,EUR,True
+P0004,SKU-00004,PeakMotion Home Jersey,Jerseys,Home Jersey,PeakMotion,SUP007,21.53,44.1,EUR,True
+P0005,SKU-00005,AdlerFit Home Jersey,Jerseys,Home Jersey,AdlerFit,SUP007,30.52,47.95,EUR,True
+P0006,SKU-00006,EuroSport Away Jersey,Jerseys,Away Jersey,EuroSport,SUP002,33.49,60.11,EUR,True
+P0007,SKU-00007,PeakMotion Away Jersey,Jerseys,Away Jersey,PeakMotion,SUP005,65.53,144.34,EUR,True
+P0008,SKU-00008,EuroSport Training Jersey,Jerseys,Training Jersey,EuroSport,SUP007,10.91,18.79,EUR,True
+P0009,SKU-00009,PeakMotion Training Jersey,Jerseys,Training Jersey,PeakMotion,SUP006,48.3,105.05,EUR,True
+P0010,SKU-00010,AdlerFit Home Jersey,Jerseys,Home Jersey,AdlerFit,SUP005,78.89,184.67,EUR,True
+P0011,SKU-00011,UrbanAthlete Home Jersey,Jerseys,Home Jersey,UrbanAthlete,SUP005,39.01,90.41,EUR,True
+P0012,SKU-00012,NordRun Home Jersey,Jerseys,Home Jersey,NordRun,SUP006,20.71,35.08,EUR,True
+P0013,SKU-00013,EuroSport Training Jersey,Jerseys,Training Jersey,EuroSport,SUP003,45.06,75.22,EUR,True
+P0014,SKU-00014,UrbanAthlete Away Jersey,Jerseys,Away Jersey,UrbanAthlete,SUP005,79.21,166.66,EUR,True
+P0015,SKU-00015,AdlerFit Training Jersey,Jerseys,Training Jersey,AdlerFit,SUP006,68.21,153.72,EUR,True
+P0016,SKU-00016,EuroSport Baseball Cap,Caps,Baseball Cap,EuroSport,SUP006,35.09,51.68,EUR,True
+P0017,SKU-00017,NordRun Beanie,Caps,Beanie,NordRun,SUP004,54.16,99.39,EUR,True
+P0018,SKU-00018,UrbanAthlete Beanie,Caps,Beanie,UrbanAthlete,SUP003,24.87,41.56,EUR,True
+P0019,SKU-00019,PeakMotion Beanie,Caps,Beanie,PeakMotion,SUP005,61.03,114.2,EUR,True
+P0020,SKU-00020,UrbanAthlete Beanie,Caps,Beanie,UrbanAthlete,SUP006,21.45,53.57,EUR,True
+P0021,SKU-00021,UrbanAthlete Beanie,Caps,Beanie,UrbanAthlete,SUP002,61.68,144.78,EUR,True
+P0022,SKU-00022,AdlerFit Baseball Cap,Caps,Baseball Cap,AdlerFit,SUP007,49.73,90.67,EUR,True
+P0023,SKU-00023,UrbanAthlete Beanie,Caps,Beanie,UrbanAthlete,SUP005,77.83,182.66,EUR,True
+P0024,SKU-00024,EuroSport Baseball Cap,Caps,Baseball Cap,EuroSport,SUP005,62.64,111.14,EUR,True
+P0025,SKU-00025,UrbanAthlete Snapback Cap,Caps,Snapback Cap,UrbanAthlete,SUP003,39.03,95.59,EUR,True
+P0026,SKU-00026,NordRun Beanie,Caps,Beanie,NordRun,SUP003,43.08,65.35,EUR,True
+P0027,SKU-00027,NordRun Beanie,Caps,Beanie,NordRun,SUP004,16.46,36.85,EUR,True
+P0028,SKU-00028,PeakMotion Beanie,Caps,Beanie,PeakMotion,SUP001,49.92,96.72,EUR,True
+P0029,SKU-00029,NordRun Baseball Cap,Caps,Baseball Cap,NordRun,SUP005,22.96,38.23,EUR,True
+P0030,SKU-00030,EuroSport Beanie,Caps,Beanie,EuroSport,SUP002,59.89,137.6,EUR,True
+P0031,SKU-00031,AdlerFit Training Hoodie,Hoodies,Training Hoodie,AdlerFit,SUP003,54.48,133.01,EUR,True
+P0032,SKU-00032,NordRun Pullover Hoodie,Hoodies,Pullover Hoodie,NordRun,SUP007,77.33,187.28,EUR,True
+P0033,SKU-00033,AdlerFit Training Hoodie,Hoodies,Training Hoodie,AdlerFit,SUP005,34.92,74.69,EUR,True
+P0034,SKU-00034,UrbanAthlete Zip Hoodie,Hoodies,Zip Hoodie,UrbanAthlete,SUP008,14.08,23.19,EUR,True
+P0035,SKU-00035,EuroSport Zip Hoodie,Hoodies,Zip Hoodie,EuroSport,SUP004,49.13,69.17,EUR,True
+P0036,SKU-00036,EuroSport Training Hoodie,Hoodies,Training Hoodie,EuroSport,SUP004,10.06,14.43,EUR,True
+P0037,SKU-00037,EuroSport Zip Hoodie,Hoodies,Zip Hoodie,EuroSport,SUP004,25.89,50.07,EUR,True
+P0038,SKU-00038,AdlerFit Training Hoodie,Hoodies,Training Hoodie,AdlerFit,SUP008,23.22,44.59,EUR,True
+P0039,SKU-00039,AdlerFit Zip Hoodie,Hoodies,Zip Hoodie,AdlerFit,SUP002,12.27,23.0,EUR,True
+P0040,SKU-00040,UrbanAthlete Zip Hoodie,Hoodies,Zip Hoodie,UrbanAthlete,SUP008,69.79,101.86,EUR,True
+P0041,SKU-00041,EuroSport Training Hoodie,Hoodies,Training Hoodie,EuroSport,SUP001,35.2,62.42,EUR,True
+P0042,SKU-00042,AdlerFit Pullover Hoodie,Hoodies,Pullover Hoodie,AdlerFit,SUP004,19.27,36.49,EUR,True
+P0043,SKU-00043,AdlerFit Zip Hoodie,Hoodies,Zip Hoodie,AdlerFit,SUP005,39.7,93.77,EUR,True
+P0044,SKU-00044,UrbanAthlete Pullover Hoodie,Hoodies,Pullover Hoodie,UrbanAthlete,SUP002,8.79,21.97,EUR,True
+P0045,SKU-00045,EuroSport Pullover Hoodie,Hoodies,Pullover Hoodie,EuroSport,SUP004,17.47,33.79,EUR,True
+P0046,SKU-00046,UrbanAthlete Running Shoes,Footwear,Running Shoes,UrbanAthlete,SUP001,17.35,24.33,EUR,True
+P0047,SKU-00047,NordRun Training Shoes,Footwear,Training Shoes,NordRun,SUP008,26.39,57.17,EUR,True
+P0048,SKU-00048,PeakMotion Lifestyle Sneakers,Footwear,Lifestyle Sneakers,PeakMotion,SUP008,16.61,28.68,EUR,True
+P0049,SKU-00049,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP001,61.1,89.38,EUR,True
+P0050,SKU-00050,UrbanAthlete Lifestyle Sneakers,Footwear,Lifestyle Sneakers,UrbanAthlete,SUP003,9.27,18.16,EUR,True
+P0051,SKU-00051,EuroSport Running Shoes,Footwear,Running Shoes,EuroSport,SUP002,55.64,92.29,EUR,True
+P0052,SKU-00052,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP004,48.42,69.9,EUR,True
+P0053,SKU-00053,UrbanAthlete Running Shoes,Footwear,Running Shoes,UrbanAthlete,SUP006,75.1,122.01,EUR,True
+P0054,SKU-00054,NordRun Lifestyle Sneakers,Footwear,Lifestyle Sneakers,NordRun,SUP004,24.92,38.48,EUR,True
+P0055,SKU-00055,NordRun Lifestyle Sneakers,Footwear,Lifestyle Sneakers,NordRun,SUP008,28.71,63.94,EUR,True
+P0056,SKU-00056,EuroSport Running Shoes,Footwear,Running Shoes,EuroSport,SUP008,51.59,104.18,EUR,True
+P0057,SKU-00057,EuroSport Running Shoes,Footwear,Running Shoes,EuroSport,SUP004,42.94,66.37,EUR,True
+P0058,SKU-00058,EuroSport Training Shoes,Footwear,Training Shoes,EuroSport,SUP004,32.71,51.47,EUR,True
+P0059,SKU-00059,NordRun Lifestyle Sneakers,Footwear,Lifestyle Sneakers,NordRun,SUP001,55.09,110.73,EUR,True
+P0060,SKU-00060,EuroSport Lifestyle Sneakers,Footwear,Lifestyle Sneakers,EuroSport,SUP003,24.83,59.06,EUR,True
+P0061,SKU-00061,NordRun Training Shorts,Shorts,Training Shorts,NordRun,SUP005,50.36,110.26,EUR,True
+P0062,SKU-00062,NordRun Training Shorts,Shorts,Training Shorts,NordRun,SUP008,23.83,57.17,EUR,True
+P0063,SKU-00063,EuroSport Training Shorts,Shorts,Training Shorts,EuroSport,SUP007,67.2,97.34,EUR,True
+P0064,SKU-00064,AdlerFit Match Shorts,Shorts,Match Shorts,AdlerFit,SUP005,17.12,32.29,EUR,True
+P0065,SKU-00065,PeakMotion Match Shorts,Shorts,Match Shorts,PeakMotion,SUP001,13.39,32.67,EUR,True
+P0066,SKU-00066,PeakMotion Training Shorts,Shorts,Training Shorts,PeakMotion,SUP001,67.59,137.94,EUR,True
+P0067,SKU-00067,UrbanAthlete Training Shorts,Shorts,Training Shorts,UrbanAthlete,SUP003,8.14,14.66,EUR,True
+P0068,SKU-00068,NordRun Training Shorts,Shorts,Training Shorts,NordRun,SUP004,56.16,119.82,EUR,True
+P0069,SKU-00069,PeakMotion Match Shorts,Shorts,Match Shorts,PeakMotion,SUP007,78.04,173.59,EUR,True
+P0070,SKU-00070,AdlerFit Training Shorts,Shorts,Training Shorts,AdlerFit,SUP003,71.11,101.49,EUR,True
+P0071,SKU-00071,UrbanAthlete Match Shorts,Shorts,Match Shorts,UrbanAthlete,SUP004,25.01,56.68,EUR,True
+P0072,SKU-00072,UrbanAthlete Training Shorts,Shorts,Training Shorts,UrbanAthlete,SUP001,69.39,114.12,EUR,True
+P0073,SKU-00073,NordRun Match Shorts,Shorts,Match Shorts,NordRun,SUP005,66.54,156.93,EUR,True
+P0074,SKU-00074,EuroSport Training Shorts,Shorts,Training Shorts,EuroSport,SUP004,34.88,59.52,EUR,True
+P0075,SKU-00075,NordRun Training Shorts,Shorts,Training Shorts,NordRun,SUP006,53.11,97.7,EUR,True
+P0076,SKU-00076,EuroSport Scarf,Accessories,Scarf,EuroSport,SUP002,70.78,119.43,EUR,True
+P0077,SKU-00077,EuroSport Scarf,Accessories,Scarf,EuroSport,SUP002,49.74,88.55,EUR,True
+P0078,SKU-00078,UrbanAthlete Scarf,Accessories,Scarf,UrbanAthlete,SUP002,33.89,68.94,EUR,True
+P0079,SKU-00079,EuroSport Scarf,Accessories,Scarf,EuroSport,SUP007,5.13,12.41,EUR,True
+P0080,SKU-00080,NordRun Backpack,Accessories,Backpack,NordRun,SUP007,10.25,21.84,EUR,True
+P0081,SKU-00081,PeakMotion Scarf,Accessories,Scarf,PeakMotion,SUP006,54.75,84.16,EUR,True
+P0082,SKU-00082,PeakMotion Scarf,Accessories,Scarf,PeakMotion,SUP005,55.02,96.77,EUR,True
+P0083,SKU-00083,PeakMotion Scarf,Accessories,Scarf,PeakMotion,SUP003,19.39,41.33,EUR,True
+P0084,SKU-00084,AdlerFit Gym Bag,Accessories,Gym Bag,AdlerFit,SUP005,35.46,82.16,EUR,True
+P0085,SKU-00085,NordRun Scarf,Accessories,Scarf,NordRun,SUP004,37.24,75.89,EUR,True
+P0086,SKU-00086,UrbanAthlete Scarf,Accessories,Scarf,UrbanAthlete,SUP008,38.16,62.39,EUR,True
+P0087,SKU-00087,AdlerFit Gym Bag,Accessories,Gym Bag,AdlerFit,SUP002,26.28,55.98,EUR,True
+P0088,SKU-00088,EuroSport Scarf,Accessories,Scarf,EuroSport,SUP004,55.46,91.35,EUR,True
+P0089,SKU-00089,AdlerFit Backpack,Accessories,Backpack,AdlerFit,SUP001,8.47,21.03,EUR,True
+P0090,SKU-00090,UrbanAthlete Water Bottle,Accessories,Water Bottle,UrbanAthlete,SUP007,71.46,145.3,EUR,True
+P0091,SKU-00091,UrbanAthlete Kids Shorts,Kidswear,Kids Shorts,UrbanAthlete,SUP008,34.97,54.63,EUR,True
+P0092,SKU-00092,EuroSport Kids Shorts,Kidswear,Kids Shorts,EuroSport,SUP002,63.38,103.99,EUR,True
+P0093,SKU-00093,PeakMotion Kids Shorts,Kidswear,Kids Shorts,PeakMotion,SUP008,8.77,14.68,EUR,True
+P0094,SKU-00094,UrbanAthlete Kids Jersey,Kidswear,Kids Jersey,UrbanAthlete,SUP003,65.11,138.97,EUR,True
+P0095,SKU-00095,PeakMotion Kids Shorts,Kidswear,Kids Shorts,PeakMotion,SUP006,76.25,181.52,EUR,True
+P0096,SKU-00096,PeakMotion Kids Shorts,Kidswear,Kids Shorts,PeakMotion,SUP007,67.29,134.76,EUR,True
+P0097,SKU-00097,UrbanAthlete Kids Jersey,Kidswear,Kids Jersey,UrbanAthlete,SUP008,24.44,40.86,EUR,True
+P0098,SKU-00098,NordRun Kids Shorts,Kidswear,Kids Shorts,NordRun,SUP008,52.01,88.52,EUR,True
+P0099,SKU-00099,NordRun Kids Jersey,Kidswear,Kids Jersey,NordRun,SUP004,25.38,44.46,EUR,True
+P0100,SKU-00100,EuroSport Kids Shorts,Kidswear,Kids Shorts,EuroSport,SUP003,16.31,29.71,EUR,True
+,SKU-BAD-001,Invalid Product Missing ID,,Unknown,Unknown,SUP999,-10,5,USD,True

@@ -1,0 +1,13 @@
+StoreID,StoreName,StoreType,Country,City,Region,OpenDate,IsActive
+S001,Berlin Flagship,Physical Store,Germany,Berlin,Central Europe,2020-01-15,True
+S002,Munich Store,Physical Store,Germany,Munich,Central Europe,2020-03-20,True
+S003,Paris Store,Physical Store,France,Paris,Western Europe,2021-02-10,True
+S004,Amsterdam Store,Physical Store,Netherlands,Amsterdam,Western Europe,2021-06-01,True
+S005,Brussels Store,Physical Store,Belgium,Brussels,Western Europe,2021-09-18,True
+S006,Madrid Store,Physical Store,Spain,Madrid,Southern Europe,2022-01-05,True
+S007,Milan Store,Physical Store,Italy,Milan,Southern Europe,2022-04-12,True
+S008,Warsaw Store,Physical Store,Poland,Warsaw,Eastern Europe,2022-08-08,True
+S009,Stockholm Store,Physical Store,Sweden,Stockholm,Northern Europe,2023-01-11,True
+S010,Vienna Store,Physical Store,Austria,Vienna,Central Europe,2023-05-25,True
+S011,Online Store,Online Store,Germany,Online,Digital,2020-01-01,True
+W001,Frankfurt Central Warehouse,Warehouse,Germany,Frankfurt,Central Europe,2019-07-01,True
