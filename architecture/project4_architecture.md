@@ -220,3 +220,38 @@ GitHub should not contain secrets
 13. Final Architecture Summary
 
 This project demonstrates a production-style Azure retail data platform using Azure Data Lake, Azure Data Factory, Azure Databricks, Azure SQL Database, PySpark, Delta Lake, GitHub, and Power BI-ready warehouse tables.
+
+
+
+## 14. Azure Data Lake Upload Plan
+
+Project 4 source files will first be uploaded to the landing zone.
+
+Container:
+
+landing/products/
+landing/stores/
+landing/suppliers/
+landing/calendar/
+landing/sales/
+landing/inventory/
+landing/purchase_orders/
+landing/stock_transfers/
+landing/returns/
+landing/online_orders/
+
+File mapping:
+
+Source File	Landing Folder
+products.csv	landing/products/
+stores.csv	landing/stores/
+suppliers.csv	landing/suppliers/
+calendar.csv	landing/calendar/
+sales_transactions.csv	landing/sales/
+inventory_snapshot.csv	landing/inventory/
+purchase_orders.csv	landing/purchase_orders/
+stock_transfers.csv	landing/stock_transfers/
+returns.csv	landing/returns/
+online_orders.json	landing/online_orders/
+
+ADF will validate the required files in the landing zone before copying them into the raw zone for Databricks processing.
