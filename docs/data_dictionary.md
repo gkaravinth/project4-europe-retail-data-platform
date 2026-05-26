@@ -145,3 +145,46 @@
 | items.unit_price | Decimal | Item unit price |
 | discounts | Array | Discount details |
 | delivery_events | Array | Delivery tracking events |
+
+## Source File Profiling Summary
+
+The generated Project 4 source files were profiled before Azure upload.
+
+| File Name | Record Count | Notes |
+|---|---:|---|
+| products.csv | 101 | Includes 100 valid product records and 1 intentional bad record |
+| stores.csv | 12 | Includes 10 physical stores, 1 online store, and 1 warehouse |
+| suppliers.csv | 8 | Includes 8 active suppliers |
+| calendar.csv | 25 | Covers the date range from 2026-05-01 to 2026-05-25 |
+| sales_transactions.csv | 1202 | Includes 1200 valid sales records, 1 bad record, and 1 duplicate |
+| inventory_snapshot.csv | 1201 | Includes inventory for 12 locations and 100 products, plus 1 bad record |
+| purchase_orders.csv | 301 | Includes 300 purchase orders and 1 bad record |
+| stock_transfers.csv | 401 | Includes 400 stock transfers and 1 bad record |
+| returns.csv | 251 | Includes 250 return records and 1 bad record |
+| online_orders.json | 301 | Includes 300 online orders and 1 bad nested JSON record |
+
+## Intentional Data Quality Issues
+
+The source files include controlled bad records for data engineering validation practice.
+
+Examples of intentional issues:
+
+- Missing ProductID
+- Invalid SupplierID
+- Negative UnitCost
+- Wrong Currency
+- Future TransactionDate
+- Invalid StoreID
+- Invalid ProductID
+- Negative Quantity
+- Duplicate TransactionID
+- Negative ReservedQty
+- Invalid PO dates
+- ReceivedQty greater than OrderedQty
+- Invalid TransferStatus
+- FromLocationID same as ToLocationID
+- Missing online order ID
+- Invalid payment status
+- Empty online order items array
+
+These issues will be handled during Silver layer validation and rejected-zone processing.
